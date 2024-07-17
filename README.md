@@ -28,3 +28,5 @@ Installation and Importing Libraries: The first cell installs the tabula-py libr
 Reading the PDF: The code reads tables from the specified PDF file using the tabula.read_pdf() function, which returns a list of DataFrame objects, each representing a table detected in the PDF.
 Converting to JSON: The extracted tables are converted to JSON format using the to_json() method of DataFrame objects. This allows for easier data manipulation and extraction.
 Processing JSON Data: Specific rows and columns from the JSON data are processed to extract relevant information. This involves converting rows into lists of tuples and extracting values based on predefined keys.
+
+
