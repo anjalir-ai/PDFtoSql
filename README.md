@@ -7,8 +7,8 @@ To run the code in this notebook, ensure you have the following installed on you
 * Python 3.x
 * Jupyter Notebook/colab/Visual Studio Code
 * tabula-py
-* You can install the necessary library using pip with the following command:
-pip install tabula-py
+  (You can install the necessary library using pip with the following command:
+pip install tabula-py)
 > Tutorial
 * Begin by cloning the repository to your local machine using Git:
 git clone https://github.com/yourusername/your-repo-name.git
