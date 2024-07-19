@@ -4,10 +4,10 @@ PDF Table Extraction and Processing
 * This is particularly useful for automating the extraction of tabular data from PDFs, making it easier to analyze and manipulate.
 > Dependencies:
 To run the code in this notebook, ensure you have the following installed on your system-
-Python 3.x: The code is written in Python, so you will need a Python environment to execute it.
-Jupyter Notebook/colab/Visual Studio Code: This is necessary to open and run the. ipynb file or .py file.
-tabula-py: A Python wrapper for tabula-java, which is used for reading tables from PDF files.
-You can install the necessary library using pip with the following command:
+* Python 3.x
+* Jupyter Notebook/colab/Visual Studio Code
+* tabula-py
+* You can install the necessary library using pip with the following command:
 pip install tabula-py
 > Tutorial
 * Begin by cloning the repository to your local machine using Git:
